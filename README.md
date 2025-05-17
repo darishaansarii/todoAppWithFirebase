@@ -3,7 +3,7 @@
 A sleek, modern, and responsive **Todo List App** powered by **Firebase Realtime Database**. This app allows you to manage your daily tasks effortlessly with real-time syncing, even across page refreshes!
 
 🔗 **[Live Demo](https://darishaansarii.github.io/todoAppWithFirebase)**
-📂 **[GitHub Repository](https://github.com/darishansarii/todoAppWithFirebase/)**
+📂 **[GitHub Repository](https://github.com/darishaansarii/todoAppWithFirebase)**
 
 ## ✨ Features
 
@@ -47,7 +47,7 @@ Pull requests are welcome! If you have suggestions or improvements, feel free to
 ## 🙋‍♂️ Author
 
 **Darish Ansarii**
-🔗 [LinkedIn]([https://www.linkedin.com/in/darishansarii])
+🔗 [LinkedIn](https://www.linkedin.com/in/darishaansarii)
 📂 [GitHub](https://github.com/darishansarii)
 
 ---
