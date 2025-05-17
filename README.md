@@ -48,7 +48,7 @@ Pull requests are welcome! If you have suggestions or improvements, feel free to
 
 **Darish Ansarii**
 🔗 [LinkedIn](https://www.linkedin.com/in/darishaansarii)
-📂 [GitHub](https://github.com/darishansarii)
+📂 [GitHub](https://github.com/darishaansarii)
 
 ---
 
